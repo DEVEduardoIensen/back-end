@@ -19,7 +19,7 @@ console.log(a/b)
 
 // NaN
 
-const bike = irineu;
+const bike = "irineu";
 
 console.log(bike * numero); 
 
